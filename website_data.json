@@ -1,5 +1,10 @@
 {
 	"factoids": [
+		{		
+			"banner": "Be kind to people, stop racism and discrimination. ",
+			"id": "1",
+			"numberoftimes": "2"
+		},
 		{
 			"banner": "Don't Hoard groceries and essentials. Please ensure that people who are in need don't face a shortage because of you! ",
 			"id": "1",
